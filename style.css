@@ -156,7 +156,7 @@ section {
 }
 
 .section-title h2:after {
-    content: '';
+    content: var(--white);
     position: absolute;
     bottom: -10px;
     left: 50%;
